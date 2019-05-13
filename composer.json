@@ -1,0 +1,16 @@
+{
+  "name": "lunzi/dlj",
+  "description": "api package for dlj.biz",
+  "authors": [
+    {
+      "name": "lunzi",
+      "email": "service@newphper.com"
+    }
+  ],
+  "license": "Apache-2.0",
+  "autoload": {
+    "psr-4": {
+      "lunzi\\": "src"
+    }
+  }
+}
