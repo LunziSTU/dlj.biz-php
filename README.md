@@ -1,3 +1,6 @@
+> 由于短链服务经常被滥用，没有能力监管，已暂时关闭，敬请谅解！
+
+
 # dlj.biz-php
 [dlj.biz](https://dlj.biz) 短链接 API 扩展包
 
